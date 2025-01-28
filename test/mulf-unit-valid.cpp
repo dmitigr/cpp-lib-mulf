@@ -15,9 +15,10 @@
 // limitations under the License.
 
 #include "../../base/assert.hpp"
-#include "../../base/fsx.hpp"
 #include "../../mulf/mulf.hpp"
 #include "../../str/stream.hpp"
+
+#include <filesystem>
 
 int main(int, char* argv[])
 {
